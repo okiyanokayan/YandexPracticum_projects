@@ -109,10 +109,19 @@ Data Science projects
 </tr>
 
 <tr>
-  <td><a href = "https://github.com/OxanaFedorova/YandexPracticum_projects/blob/main/Machine_Learning_for_Texts_TOXIC_COMMENTS.ipynb">Классификация токсичных комментариев</a></td>
+  <td><a href = "https://github.com/OxanaFedorova/YandexPracticum_projects/blob/main/Machine_Learning_for_Texts_TOXIC_COMMENTS.ipynb">Классификация токсичности комментариев</a></td>
   <th>NLP, Machine Learning</th>
   <td>Интернет-магазину необходим инструмент поиска токсичных комментариев, чтобы отправлять их на дальнейшую модерацию. Задача - обучить модель классифицировать комментарии на позитивные и негативные на наборе размеченных данных о токсичности правок.</td>
   <td>python, pandas, nltk, tf-idf, spacy</td>
 </tr>
+
+<tr>
+  <td><a href = "https://github.com/OxanaFedorova/YandexPracticum_projects/blob/main/Machine_Learning_in_Business_OIL_REGION.ipynb">Определение наиболее выгодного региона нефтедобычи</a></td>
+  <th>Machine Learning, Regression, Business Model Development, Financial Analytics</th>
+  <td>Перед добывающей компанией стоит вопрос опеделения новой скважины для бурения. В нашем распоряжении пробы нефти в трёх регионах, где измерено качество нефти и объём её запасов. Задача - Построить модель машинного обучения, которая поможет определить наиболее выгодный регион нефтедобычи, проанализировав возможную прибыль и риски.</td>
+  <td>pandas, scikit-learn, bootstrap</td>
+</tr>
+
 </table>
 </details>
+
