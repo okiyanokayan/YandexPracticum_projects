@@ -110,14 +110,9 @@ Data Science projects
 
 <tr>
   <td><a href = "https://github.com/OxanaFedorova/YandexPracticum_projects/blob/main/Machine_Learning_for_Texts_TOXIC_COMMENTS.ipynb">Классификация токсичных комментариев</a></td>
-  <th>NLP Machine Learning</th>
+  <th>NLP, Machine Learning</th>
   <td>Интернет-магазину необходим инструмент поиска токсичных комментариев, чтобы отправлять их на дальнейшую модерацию. Задача - обучить модель классифицировать комментарии на позитивные и негативные на наборе размеченных данных о токсичности правок.</td>
-  <td>
-Python
-Pandas
-BERT
-nltk
-tf-idf</td>
+  <td>python, pandas, nltk, tf-idf, spacy</td>
 </tr>
 </table>
 </details>
