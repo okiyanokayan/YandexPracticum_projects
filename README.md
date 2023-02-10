@@ -27,10 +27,10 @@ Data Science projects
 </table>
 
 # Проекты:
-
+Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме по профессии "Специалист по Data Science".
 ## Аналитика:
 <details open>
-  <summary>Список проектов по теме</summary>
+  <summary>Список проектов:</summary>
 <table>
 <tr>
   <th>Название проекта</th>
@@ -94,7 +94,7 @@ Data Science projects
 ## Регрессия:
 
 <details open>
-  <summary>Список проектов по теме</summary>
+  <summary>Список проектов:</summary>
 <table>
 <tr>
   <th>Название проекта</th>
