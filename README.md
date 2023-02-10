@@ -10,25 +10,18 @@ Data Science projects
 <tr>
   <th>Название курса</th>
   <th>Форма обучения</th>
-  <th>Статус</th>
-</tr> 
-<tr>
-  <td>
-   <p>СберУниверситет: Модельный риск и мониторинг моделей</p>
-  </td>
-  <td>Дистанционная</td>
-  <td>Завершен</td>
+  <th>Период обучения</th>
 </tr> 
 <tr>
   <td><a href = "https://practicum.yandex.ru/data-scientist/">Яндекс.Практикум: Специалист по Data Science</a></td>
   <td>Дистанционная</td>
-  <td>Завершен</td>
+  <th>2021-2022</th>
 </tr> 
 <tr>
   <td>
-   <a href = "https://mipt.ru/online/algoritmov-i-tekhnologiy/machin-learning.php" >МФТИ ФПМИ. Машинное обучение, основной поток (3 курс, 2020)</a>
+   <a href = "https://mipt.ru/online/algoritmov-i-tekhnologiy/machin-learning.php" >Центр компетенций «Цифровая экономика», Финансовый университет при Правительстве Российской Федерации: Аналитик данных «Data Scientist»,</a>
   </td>
   <td>Дистанционная</td>
-  <td>Завершен</td>
+  <th>2022</th>
 </tr> 
 </table>
