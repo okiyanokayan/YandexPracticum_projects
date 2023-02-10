@@ -27,7 +27,7 @@ Data Science projects
 </table>
 
 # Проекты:
-Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме по профессии "Специалист по Data Science".
+Данные проекты были выполнены в процессе обучения в Яндекс.Практикуме по профессии "Специалист по Data Science".
 <details open>
   <summary>Список проектов:</summary>
 <table>
@@ -112,7 +112,7 @@ Data Science projects
   <td><a href = "https://github.com/OxanaFedorova/YandexPracticum_projects/blob/main/Machine_Learning_for_Texts_TOXIC_COMMENTS.ipynb">Классификация токсичных комментариев</a></td>
   <th>NLP, Machine Learning</th>
   <td>Интернет-магазину необходим инструмент поиска токсичных комментариев, чтобы отправлять их на дальнейшую модерацию. Задача - обучить модель классифицировать комментарии на позитивные и негативные на наборе размеченных данных о токсичности правок.</td>
-  <td>*python, pandas, nltk, tf-idf, spacy*</td>
+  <td>python, pandas, nltk, tf-idf, spacy</td>
 </tr>
 </table>
 </details>
