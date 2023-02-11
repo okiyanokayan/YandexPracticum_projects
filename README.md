@@ -1,5 +1,4 @@
-## YandexPracticum_projects
-Data Science projects
+Yandex.Practicum. Data Science projects 
 
 ### Сертификат:
  - Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/OxanaFedorova/YandexPracticum_projects/blob/main/certificate_YP_rus.pdf)/[EN](https://github.com/OxanaFedorova/YandexPracticum_projects/blob/main/certificate_YP_eng.pdf)
