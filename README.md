@@ -79,7 +79,7 @@ Yandex.Practicum. Data Science projects
 </tr>
 
 <tr>
-  <td><a href = "https://github.com/OxanaFedorova/YandexPracticum_projects/blob/main/Statistical_Data_Analysis_BEST_TARIFF_for_TELECOM.ipynb">Определение перспективного тарифа для телеком-компании</a></td>
+  <td><a href = "https://github.com/OxanaFedorova/YandexPracticum_projects/tree/main/Statistical_Data_Analysis_BEST_TARIFF_for_TELECOM">Определение перспективного тарифа для телеком-компании</a></td>
   <th>Marketing Analytics, Product Analytics, Data Analytics</th>
   <td>Федеральный оператор сотовой связи предлагает клиентам два тарифных плана. Чтобы скорректировать рекламный бюджет, коммерческому департаменту необходимо понимание, какой тариф приносит больше денег. Задача - сделать предварительный анализ тарифов на небольшой выборке клиентов.</td>
   <td>python, pandas, matplotlib, numpy, scipy, описательная статистика, проверка статистических гипотез</td>
