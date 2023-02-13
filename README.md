@@ -100,7 +100,7 @@ Yandex.Practicum. Data Science projects
 </tr>
 
 <tr>
-  <td><a href = "https://github.com/OxanaFedorova/YandexPracticum_projects/blob/main/Machine_Learning_in_Business_OIL_REGION.ipynb">Определение наиболее выгодного региона нефтедобычи</a></td>
+  <td><a href = "https://github.com/OxanaFedorova/YandexPracticum_projects/tree/main/Machine_Learning_in_Business_OIL_REGION">Определение наиболее выгодного региона нефтедобычи</a></td>
   <th>Machine Learning, Regression, Business Model Development, Financial Analytics</th>
   <td>Перед добывающей компанией стоит вопрос опеделения новой скважины для бурения. В нашем распоряжении пробы нефти в трёх регионах, где измерено качество нефти и объём её запасов. Задача - построить модель машинного обучения, которая поможет определить наиболее выгодный регион нефтедобычи, проанализировав возможную прибыль и риски.</td>
   <td>pandas, scikit-learn, bootstrap</td>
