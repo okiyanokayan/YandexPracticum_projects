@@ -30,7 +30,7 @@ Yandex.Practicum. Data Science projects
 </tr>
 
 <tr>
-  <td><a href = "https://github.com/OxanaFedorova/YandexPracticum_projects/blob/main/EDA_Real_Estate_Market/EDA_Real_Estate_Market">Исследование объявлений о продаже квартир</a></td>
+  <td><a href = "https://github.com/OxanaFedorova/YandexPracticum_projects/tree/main/EDA_Real_Estate_Market">Исследование объявлений о продаже квартир</a></td>
   <th>Marketing Analytics, Fraud Analytics, Data Analytics</th>
   <td>Сервис Яндекс.Недвижимость предоставляет данные — архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктах за несколько лет. Необходимо определить рыночную стоимость объектов недвижимости. Задача — установить параметры, что позволит построить автоматизированную систему, которая способна отследить аномалии и мошенническую деятельность.</td>
   <td>python, pandas, matplotlib, исследовательский анализ данных, визуализация данных, предобработка данных</td>
