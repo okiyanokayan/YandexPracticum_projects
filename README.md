@@ -65,7 +65,7 @@ Yandex.Practicum. Data Science projects
 </tr>
 
 <tr>
-  <td><a href = "https://github.com">Рекомендация тарифов мобильной связи</a></td>
+  <td><a href = "https://github.com/OxanaFedorova/YandexPracticum_projects/tree/main/Machine_Learning_TARIFFS_recommendation">Рекомендация тарифов мобильной связи</a></td>
   <th>Machine Learning, Сlassification</th>
   <td>Оператор мобильной связи хочет построить систему, способную проанализировать поведение клиентов и предложить пользователям один из новых тарифов. Задача - построить модель для выбора подходящего тарифа</td>
   <td>python, pandas,  matplotlib, scikit-learn</td>
