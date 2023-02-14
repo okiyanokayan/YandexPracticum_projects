@@ -72,7 +72,7 @@ Yandex.Practicum. Data Science projects
 </tr>
 
   <tr>
-  <td><a href = "https://github.com">Прогнозирование оттока клиентов банка</a></td>
+  <td><a href = "https://github.com/OxanaFedorova/YandexPracticum_projects/tree/main/Mashine_Learning_CHURN_FORECAS">Прогнозирование оттока клиентов банка</a></td>
   <th> </th>
   <td>Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Мне предоставлены исторические данные о поведении клиентов и расторжении договоров с банком</td>
   <td> </td>
