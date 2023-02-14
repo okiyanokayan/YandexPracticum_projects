@@ -1,4 +1,4 @@
-# Выбор локации для скважины
+# Определение наиболее выгодного региона нефтедобычи. Выбор локации для скважины.
 
 [Полная версия проекта](https://github.com/OxanaFedorova/YandexPracticum_projects/blob/main/Machine_Learning_in_Business_OIL_REGION/Machine_Learning_in_Business_OIL_REGION.ipynb)
 
@@ -26,5 +26,3 @@
 
 >Найден самый перспективный для разработки скважин регион с наименьшими убытками и наибольшей средней прибылью.
 >
-
-
