@@ -37,7 +37,7 @@ Yandex.Practicum. Data Science projects
 </tr>
 
 <tr>
-  <td><a href = "https://github.com">Исследование технологического процесса очистки золота</a></td>
+  <td><a href = "https://github.com/OxanaFedorova/YandexPracticum_projects/tree/main/Mashine_Learning_GOLD">Исследование технологического процесса очистки золота</a></td>
   <th>Machine Learning, Business Analytics</th>
   <td>Промышленная компания разрабатывает решения для эффективной работы промышленных предприятий. Задача - построить модель, предсказывающую коэффициент восстановления золота из золотосодержащей руды на основе данных с параметрами добычи и очистки. Модель поможет оптимизировать производство и избежать запуск предприятия с убыточными характеристиками.</td>
   <td>pandas, numpy, matplotlib, seaborn, scikit-learn</td>
