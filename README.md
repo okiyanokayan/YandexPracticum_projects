@@ -72,10 +72,10 @@ Yandex.Practicum. Data Science projects
 </tr>
 
   <tr>
-  <td><a href = "https://github.com/OxanaFedorova/YandexPracticum_projects/tree/main/Mashine_Learning_CHURN_FORECAST">Прогнозирование оттока клиентов банка</a></td>
-  <th> </th>
-  <td>Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. Мне предоставлены исторические данные о поведении клиентов и расторжении договоров с банком</td>
-  <td> </td>
+  <td><a href = "https://github.com/OxanaFedorova/YandexPracticum_projects/tree/main/Mashine_Learning_CHURN_FORECAST">Прогнозирование оттока клиентов оператора связи</a></td>
+  <th>Machine Learning, Marketing Analytics</th>
+  <td>Оператор связи «Ниединогоразрыва.ком» обладает персональными данными о некоторых клиентах, информацией об их тарифах и договорах. Задача - спрогнозировать отток клиентов. Если выяснится, что пользователь планирует уйти, ему будут предложены промокоды и специальные условия.</td>
+  <td>python, pandas, numpy, matplotlib, seaborn, scikit-learn, catboost, phik, исследовательский анализ данных, визуализация данных, предобработка данных, проверка статистических гипотез</td>
 </tr>
 
 <tr>
