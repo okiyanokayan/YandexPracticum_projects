@@ -51,7 +51,7 @@ Yandex.Practicum. Data Science projects
 </tr>
 
 <tr>
-  <td><a href = "https://github.com">Прогнозирование заказов такси на следующий час</a></td>
+  <td><a href = "https://github.com/OxanaFedorova/YandexPracticum_projects/tree/main/Time_Series_TAXI_ORDER_FORECAST">Прогнозирование заказов такси на следующий час</a></td>
   <th>Business, Internet Services</th>
   <td>Компания-перевозчик располагает историческими данными о заказах такси в аэропортах. Задача - построить модель, которая спрогнозирует количество такси на следующий час, чтобы компания смогла привлекать необходимое количество водителей в период пиковой нагрузки.</th>
   <td>python, pandas, scikit-learn, statsmodels</td>
