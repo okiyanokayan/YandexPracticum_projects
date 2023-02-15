@@ -1,5 +1,9 @@
 Yandex.Practicum. Data Science projects 
 
+## Вопрос:
+Привет! Не могу грамотно в каждом проекте *.ipynb уже сделать Cодержание. Изначально все открывается-ссылается в проектах на ЯндексПрактикуме, но при подгрузке в Github ссылки перестают работать. Слушала вебинар в карьерном треке, что добавить ссылки-содержание было бы отлично. Теперь вопрос: как решить эту проблему? Вот, к примеру проект, где есть [содержание](https://github.com/OxanaFedorova/YandexPracticum_projects/blob/main/EDA_Real_Estate_Market/EDA_Real_Estate_Market.ipynb). Подскажи, пожалуйста, как это исправить? Причем вот еще что: там, где есть содержание, проект не редактируемый становится на Github.
+Вот [проект](https://github.com/OxanaFedorova/YandexPracticum_projects/blob/main/Mashine_Learning_GOLD/Mashine_Learning_GOLD.ipynb) без содержания и он с возможностью редактирования файла из Github уже. Я совсем не поняла тут почему так? Искала ответы в сети, спрашивала в карьерном треке, у ребят из когорты, но пока все мимо. И дело уже даже не в красоте, а в принципе: очень теперь хочется разобраться в этом. 
+
 ### Сертификат:
  - Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/OxanaFedorova/YandexPracticum_projects/blob/main/certificate_YP_rus.pdf)/[EN](https://github.com/OxanaFedorova/YandexPracticum_projects/blob/main/certificate_YP_eng.pdf)
 
