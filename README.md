@@ -24,8 +24,8 @@ Yandex.Practicum. Data Science projects
 
 <tr>
   <td><a href = "https://github.com">Исследование надёжности заёмщиков</a></td>
-  <th>Аналитика</th>
-  <td>Определить влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок</td>
+  <th></th>
+  <td></td>
   <td> </td>
 </tr>
 
@@ -46,7 +46,7 @@ Yandex.Practicum. Data Science projects
 <tr>
   <td><a href = "https://github.com">Прогнозирование цен на автомобили</a></td>
   <th> </th>
-  <td>На основании исторических данных необходимо разработать модель предсказывающую цены на автомобили</td>
+  <td></td>
   <td> </td>
 </tr>
 
